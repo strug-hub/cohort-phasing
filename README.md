@@ -1,5 +1,3 @@
-# phasing-paper
-
 To run an example of the phase consensus script for NA12878 chr12 
 
 ```
